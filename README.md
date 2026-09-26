@@ -1,4 +1,4 @@
-# Island Treasures sample storefront
+# Crafted Threads sample storefront
 
 A responsive front-end demo for the requested Pacific-inspired product store. Files are separated:
 
